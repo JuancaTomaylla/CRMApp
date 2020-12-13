@@ -10,7 +10,7 @@
    Aplicación para manejo de clientes
     <br />
     <br />
-    <a href="https://veterinary-app-jc.netlify.app/">View Demo</a>
+    <a href="https://crmapp-jc.netlify.app/">View Demo</a>
   </p>
 </p>
 
